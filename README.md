@@ -1,6 +1,6 @@
 ## ✒️ Author
-> Kevin Sean Hans Lopulalan
-> [Gerend Christopher] (https://www.linkedin.com/in/gerendchristopher?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLAHEs2D5TRWTFm9d8xl7Eg%3D%3D)
+- Kevin Sean Hans Lopulalan
+- [Gerend Christopher] (https://www.linkedin.com/in/gerendchristopher?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BLAHEs2D5TRWTFm9d8xl7Eg%3D%3D)
 
 ## 📚 Overview
 The use of computational intelligence in financial markets is on the rise. This project applies Deep Learning, specifically Convolutional Neural Networks (CNNs), to analyze stock market data and assist in algorithmic trading decisions.
