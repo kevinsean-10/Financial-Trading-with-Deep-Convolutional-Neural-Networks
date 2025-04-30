@@ -29,8 +29,8 @@ The CNN model learns to recognize trading patterns based on historical stock beh
 ## 📄 Report
 A detailed project reports (in Indonesian and English) are included in this repository.
 You can find it here:
-📄 Filename: [ENGLISH] Financial Trading with Deep Convolutional Neural Networks.pdf
-📄 Filename: [INDONESIAN] Financial Trading with Deep Convolutional Neural Networks.pdf
+- 📄 Filename: [ENGLISH] Financial Trading with Deep Convolutional Neural Networks.pdf
+- 📄 Filename: [INDONESIAN] Financial Trading with Deep Convolutional Neural Networks.pdf
 The report explains the background, methods, experiments, and findings of this project in greater depth.
 
 ## 🔧 Technologies Used
