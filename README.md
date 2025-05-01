@@ -21,7 +21,7 @@ The CNN model learns to recognize trading patterns based on historical stock beh
 ## 🚀 How to Run
 1. Clone the repository
    ```bash```
-   ```git clone https://github.com/your-username/your-repo-name.git```
+   ```git clone https://github.com/kevinsean-10/Financial-Trading-with-Deep-Convolutional-Neural-Networks.git```
    ```cd your-repo-name```
 2. Install dependencies
    ```pip install -r requirements.txt```
